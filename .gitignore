@@ -80,3 +80,5 @@ fabric.properties
 log/
 target/
 
+# ZIP
+.ZIP
